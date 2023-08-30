@@ -9,7 +9,10 @@ Feel free to explore the projects listed below and dive into the details of each
 ### [Project 1: Marketing Channels Analysis](https://github.com/dblnnn/ya_projects/tree/main/Marketing%20channels%20research)
 In this project, I analyzed the performance of various marketing channels to gain insights and make data-driven recommendations for optimizing marketing strategies.
 
-### [Project 2: Sentiment Analysis of musical reviews]()
+### [Project 2: A/B Test Analysis](https://github.com/dblnnn/data_projects/tree/main/AB%20tests%20ui)
+In this project, I analyzed the performance of various marketing channels to gain insights and make data-driven recommendations for optimizing marketing strategies.
+
+### [Project 3: Sentiment Analysis of musical reviews]()
 Currently in the stage of formatting and creating Jupyter Notebook report
 
 ## Each project directory may contain the following files:
