@@ -12,8 +12,8 @@ In this project, I analyzed the performance of various marketing channels to gai
 ### [Project 2: A/B Test Analysis](https://github.com/dblnnn/data_projects/tree/main/AB%20Test%20Analysis)
 In this project, I've selected a new website feature to implement and analyzed the results of an A/B test to determine whether the new feature should be implemented based on the results of the A/B test.
 
-### [Project 3: Sentiment Analysis of musical reviews]()
-Currently in the stage of formatting and creating Jupyter Notebook report
+### [Project 3: Bank Churn rate Analysis](https://github.com/dblnnn/data_projects/tree/main/Bank%20Churn)
+In this project I've analyzed the churn rate of a bank's clients and identified the portrait of a client who is likely to leave the bank as well as a retained client. Also I've formulated recommendations for the bank's products team.
 
 ## Each project directory may contain the following files:
 
