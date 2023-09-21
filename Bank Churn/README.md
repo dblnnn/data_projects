@@ -4,6 +4,7 @@ This repo contains a project report for a churn analysis of a bank's customers. 
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Dashboard](#dashboard)
 - [Data Overview](#data-overview)
 - [Analysis Steps](#analysis-steps)
 - [Key Findings](#key-findings)
@@ -12,6 +13,14 @@ This repo contains a project report for a churn analysis of a bank's customers. 
 
 The project is containing exploratory data analysis of a bank's customers followed by hypothesis testing and formulating recommendations for the bank's products team.
 Data was prepared for the analysis by removing missing values and duplicates, changing data types, and adding new features.
+
+## Dashboard
+
+**Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/roman.gubaidullin/viz/BankChurnDashboard_16953048517320/Main)
+
+- The dashboard is divided into 2 logical sections, distinguished by background color.
+- The main section (greenish background) focuses on key numbers within the segment and the share of churned users. You can also filter clients by city, gender, or even the 'wealthy' mark.
+- The second part, on the right, offers a deeper dive into client segmentation, allowing for in-depth churn analysis based on key user characteristics and various dimensions (binarized for ease of use).
 
 ## Data Overview
 
