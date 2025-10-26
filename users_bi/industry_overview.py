@@ -5,7 +5,15 @@ import plotly.express as px
 import altair as alt
 
 
-# Эту функцию можно разместить вверху скрипта или в отдельном файле
+def load_original_data(url):
+    response = requests.get(url)
+    if response.status_code == 200:
+        return pd.read_csv(StringIO(response.text))
+    else:
+        st.error("Failed to load data from GitHub.")
+        return None
+        
+        
 def create_performance_analytics_tab(
         df_filtered: pd.DataFrame,
         metric_options: dict,
@@ -190,9 +198,9 @@ st.title("Industry Overview Dashboard")
 # 2. Загрузка данных
 # В реальном коде замените это на:
 try:
-    df_metrics = pd.read_csv("comparable_metrics.csv")
-    df_topics = pd.read_csv("material_topics.csv")
-    df_leaders = pd.read_csv("industry_leaders.csv")
+    df_metrics = load_original_data('https://raw.githubusercontent.com/dblnnn/data_projects/refs/heads/main/users_bi/comparable_metrics.csv')
+    df_topics = load_original_data('https://raw.githubusercontent.com/dblnnn/data_projects/refs/heads/main/users_bi/material_topics.csv')
+    df_leaders = load_original_data('https://raw.githubusercontent.com/dblnnn/data_projects/refs/heads/main/users_bi/industry_leaders.csv')
 
     size_map = df_metrics[['company', 'company_size']].drop_duplicates()
     # 1. Обогащаем 'df_leaders' данными о размере
