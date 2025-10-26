@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import altair as alt
+import requests
 
 
 def load_original_data(url):
