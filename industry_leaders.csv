@@ -1,0 +1,136 @@
+bundle_id,company,year,tier,country
+18630,Mondelez International Inc,2020,A,United States
+18641,Mondelez International Inc,2021,A,United States
+18642,Mondelez International Inc,2022,A,United States
+18726,"General Mills, Inc.",2022,B,United States
+18727,"General Mills, Inc.",2023,B,United States
+18733,"General Mills, Inc.",2019,B,United States
+18734,"General Mills, Inc.",2020,B,United States
+18735,"General Mills, Inc.",2021,B,United States
+18919,Orior AG,2019,B,Switzerland
+18990,Bonduelle SCA,2022,B,France
+18996,Bonduelle SCA,2023,B,France
+18997,Bonduelle SCA,2024,B,France
+19922,Greencore Group PLC,2021,B,Ireland
+19923,Greencore Group PLC,2023,B,Ireland
+19924,Greencore Group PLC,2024,B,Ireland
+20637,Orkla ASA,2018,B,Norway
+20638,Orkla ASA,2019,B,Norway
+20639,Orkla ASA,2023,B,Norway
+20649,"Post Holdings, Inc.",2019,B,United States
+20650,"Post Holdings, Inc.",2021,B,United States
+20661,"Post Holdings, Inc.",2022,B,United States
+20662,"Post Holdings, Inc.",2023,B,United States
+21191,Maple Leaf Foods Inc,2019,B,Canada
+21192,Maple Leaf Foods Inc,2020,B,Canada
+21193,Maple Leaf Foods Inc,2021,B,Canada
+21194,Maple Leaf Foods Inc,2022,B,Canada
+21195,Maple Leaf Foods Inc,2023,B,Canada
+21486,Ajinomoto Co Inc,2023,B,Japan
+22040,Daesang Corp,2023,B,"Korea, Rep."
+22050,Ottogi Corp,2023,B,"Korea, Rep."
+22561,Britannia Industries Ltd,2022,B,India
+22562,Britannia Industries Ltd,2023,B,India
+22932,Vidrala SA,2019,B,Spain
+22933,Vidrala SA,2022,B,Spain
+23261,Tiger Brands Ltd,2021,B,South Africa
+23262,Tiger Brands Ltd,2022,B,South Africa
+23263,Tiger Brands Ltd,2023,B,South Africa
+23721,Agthia Group PJSC,2021,B,United Arab Emirates
+23722,Agthia Group PJSC,2022,B,United Arab Emirates
+23723,Agthia Group PJSC,2023,B,United Arab Emirates
+23878,Dabur India Ltd,2021,B,India
+23879,Dabur India Ltd,2022,B,India
+23880,Dabur India Ltd,2023,B,India
+23881,Dabur India Ltd,2024,B,India
+24132,B&G Foods Inc,2023,B,United States
+25469,Uni-President Enterprises Corp,2019,B,Taiwan
+25470,Uni-President Enterprises Corp,2020,B,Taiwan
+28309,Danone,2021,A,France
+28310,Danone,2022,A,France
+28311,Danone,2023,A,France
+28788,CJ CheilJedang Corporation,2022,B,"Korea, Rep."
+29087,Kraft Heinz Co,2022,A,United States
+29088,Kraft Heinz Co,2023,A,United States
+29447,M. Dias Branco S.A,2021,B,Brazil
+29448,M. Dias Branco S.A,2022,B,Brazil
+29506,Barilla,2023,B,Italy
+29527,VION Food Group,2022,B,Netherlands
+30048,Arla Foods amba,2021,B,Denmark
+31322,PT Kalbe Farma Tbk.,2021,B,Indonesia
+31323,PT Kalbe Farma Tbk.,2022,B,Indonesia
+31324,PT Kalbe Farma Tbk.,2023,B,Indonesia
+31758,Tyson Foods Inc.,2017,A,United States
+31759,Tyson Foods Inc.,2018,A,United States
+31760,Tyson Foods Inc.,2019,A,United States
+31761,Tyson Foods Inc.,2022,A,United States
+31854,The Coca-Cola Company,2019,A,United States
+31855,The Coca-Cola Company,2020,A,United States
+31940,"Pepsico, Inc.",2022,A,United States
+31941,"Pepsico, Inc.",2023,A,United States
+32447,Greencore Group PLC,2022,B,Ireland
+33034,Emmi AG,2020,B,Switzerland
+33035,Emmi AG,2022,B,Switzerland
+33293,"San Miguel Food and Beverage, Inc.",2021,B,Philippines
+33294,"San Miguel Food and Beverage, Inc.",2022,B,Philippines
+33295,"San Miguel Food and Beverage, Inc.",2023,B,Philippines
+33309,Premier Foods PLC,2023,B,United Kingdom
+35757,Mars,2021,A,United States
+35758,Mars,2022,A,United States
+35759,Mars,2023,A,United States
+36070,Mondelez International Inc,2024,A,United States
+36127,"General Mills, Inc.",2024,B,United States
+36345,Danone,2024,A,France
+37048,CJ CheilJedang Corporation,2021,B,"Korea, Rep."
+37425,Ajinomoto Co Inc,2021,B,Japan
+37426,Ajinomoto Co Inc,2022,B,Japan
+37427,Ajinomoto Co Inc,2024,B,Japan
+37719,Saputo Inc,2021,B,Canada
+37720,Saputo Inc,2022,B,Canada
+38273,Barilla,2021,B,Italy
+38274,Barilla,2022,B,Italy
+38280,Britannia Industries Ltd,2024,B,India
+38421,Bakkavor Group Plc,2022,B,United Kingdom
+38422,Bakkavor Group Plc,2024,B,United Kingdom
+38458,Cactus Inc,2021,B,United States
+38459,Cactus Inc,2023,B,United States
+38687,Vidrala SA,2021,B,Spain
+38688,Vidrala SA,2023,B,Spain
+38689,Vidrala SA,2024,B,Spain
+38967,Premier Foods PLC,2021,B,United Kingdom
+39269,Nongfu Spring Co Ltd,2024,B,China
+40245,Uni-President Enterprises Corp,2022,B,Taiwan
+40246,Uni-President Enterprises Corp,2023,B,Taiwan
+40247,Uni-President Enterprises Corp,2024,B,Taiwan
+42650,Ceylon Grain Elevators PLC,2023,B,Sri Lanka
+42651,Ceylon Grain Elevators PLC,2024,B,Sri Lanka
+46795,RCL Foods Ltd,2021,B,India
+48335,Want Want China Holdings Ltd,2023,B,China
+48808,Saputo Inc,2024,B,Canada
+50894,Danone,2020,A,France
+51000,"Post Holdings, Inc.",2024,B,United States
+51202,Tiger Brands Ltd,2020,B,South Africa
+51277,Uni-President Enterprises Corp,2021,B,Taiwan
+51809,Agrosuper S.A.,2021,B,Chile
+51810,Agrosuper S.A.,2023,B,Chile
+53364,HiPP,2022,B,Germany
+55413,Vidrala SA,2022,B,Spain
+55524,Ajinomoto Co Inc,2023,B,Japan
+55756,Danone,2021,A,France
+55764,Tiger Brands Ltd,2022,B,South Africa
+55809,The Coca-Cola Company,2020,A,United States
+55822,Maple Leaf Foods Inc,2023,B,Canada
+55989,CJ CheilJedang Corporation,2022,B,"Korea, Rep."
+55991,"Pepsico, Inc.",2022,A,United States
+56269,Danone,2023,A,France
+56769,Agthia Group PJSC,2021,B,United Arab Emirates
+56818,Vidrala SA,2024,B,Spain
+56906,Arla Foods amba,2021,B,Denmark
+57039,Barilla,2023,B,Italy
+57885,Kraft Heinz Co,2024,A,United States
+58046,Tiger Brands Ltd,2024,B,South Africa
+59120,Agrosuper S.A.,2024,B,Chile
+59355,HiPP,2024,B,Germany
+59672,"General Mills, Inc.",2025,B,United States
+59680,Danone,2025,A,France
+59847,Barilla,2025,B,Italy
